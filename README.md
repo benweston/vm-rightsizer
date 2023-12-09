@@ -19,3 +19,8 @@
         </a>
     </p>
 </div>
+
+<div align="left">
+    Banner taken from photo by <a href="https://unsplash.com/@floriankrumm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Florian Krumm</a> on
+    <a href="https://unsplash.com/photos/a-close-up-of-a-computer-motherboard-with-wires-yLDabpoCL3s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+</div>
