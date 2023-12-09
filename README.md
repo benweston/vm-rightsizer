@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/benweston/vm-rightsizer/blob/main/assets/banner-image.png" alt="Computer Motherboard" width="900" height="70" />
+</div>
+
 # VM Rightsizer
 
 <div align="left">
