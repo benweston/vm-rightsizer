@@ -10,6 +10,17 @@
 
 </div>
 
+## Project Roadmap
+
+<div align="left">
+
+All current & upcoming work is captured within the following project:   
+| Project Name | Description |
+| :----- | :----- |
+| [VM Rightsizer](https://github.com/users/benweston/projects/4/views/1) | Scripts for rightsizing Google Cloud Compute Engine VM instances & Persistent Disks. |
+
+</div>
+
 ## License
 
 <div align="left">
